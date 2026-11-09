@@ -1,4 +1,4 @@
-<h2 align="center">Zachary Wallace</h2>
+<h2 align="center">Zachary T Wallace</h2>
 <p align="center"><b>Data & AI Engineering</b> · Software · Analytics · Atlanta, GA</p>
 
 <p align="center">
