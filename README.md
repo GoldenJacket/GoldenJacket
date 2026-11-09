@@ -1,4 +1,4 @@
-<h2 align="center">Zachary T Wallace</h2>
+<h2 align="center">Zachary Wallace</h2>
 <p align="center"><b>Data & AI Engineering</b> · Software · Analytics · Atlanta, GA</p>
 
 <p align="center">
@@ -12,22 +12,13 @@ I build data and AI systems that turn messy data into decisions: data pipelines,
 
 ---
 
-### 📊 By the numbers
-
-| Metric | Project |
-|:--|:--|
-| **96.4%** accuracy on **41,000+** reviews | Amazon review recommendation model (R: logistic regression, decision trees, random forest) |
-| **90-lesson** blinded evaluation design | LLM vs. Expert Instruction: 2 models × 3 conditions × 3 scenarios, 4 rubric dimensions |
-
----
-
 ### 🚀 Selected work
 
-**[LLM vs. Expert Instruction](https://github.com/GoldenJacket/LLM-vs-expert-instruction)**: Designed and built a blinded, rubric-based study comparing LLM-generated instruction with expert coaching across prompt strategies, with a [live study app](https://swing-cue-lab.zacharytristanwallace.workers.dev) running on Cloudflare Workers AI.
+**[LLM vs. Expert Instruction](https://github.com/GoldenJacket/LLM-vs-expert-instruction)**: Designed and built a blinded, rubric-based study (90 lessons: 2 models × 3 conditions × 3 scenarios, scored on 4 dimensions) comparing LLM-generated instruction with expert coaching, with a [live study app](https://swing-cue-lab.zacharytristanwallace.workers.dev) running on Cloudflare Workers AI.
 
 **[HPC Job Submission Validator](https://github.com/Human-Augment-Analytics/admin-high-performance-computing/tree/main/HPC_Job_Submission)**: Python CLI that catches errors in SLURM job submissions before they consume shared cluster time on Georgia Tech's PACE cluster.
 
-**Amazon Review Recommendation Model**: Cleaned 41,000+ product reviews, handled class imbalance with oversampling, and compared logistic regression, decision tree, and random forest models in R to predict whether a reviewer recommends a product.
+**Amazon Review Recommendation Model**: Cleaned 41,000+ product reviews, handled class imbalance with oversampling, and compared logistic regression, decision tree, and random forest models in R to predict whether a reviewer recommends a product, reaching **96.4% accuracy**.
 
 ---
 
