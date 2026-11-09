@@ -6,9 +6,9 @@
   <a href="mailto:zacharytristanwallace@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-I build data and AI systems that turn messy data into decisions: data pipelines, machine learning models, NLP, and LLM applications designed with safety and governance in mind. My work spans research computing, operations, analytics, and full-stack applications. I bring together three areas: four years running production infrastructure, graduate training in computer science, and business training (MBA and MS in Business Analytics). That lets me move between engineers, domain experts, and leadership.
+I build data and AI systems that replace manual work with reliable, repeatable processes: data pipelines, machine learning models, NLP, and LLM applications designed with safety and governance in mind. My work spans research computing, operations, analytics, and full-stack applications. I bring together three areas: four years running production infrastructure, graduate training in computer science, and business training (MBA and MS in Business Analytics). That lets me move between engineers, domain experts, and leadership.
 
-**Focus areas:** 🔄 data engineering & pipelines · 🧠 applied ML/NLP & LLMs · 📊 analytics & BI · ⚖️ responsible AI
+**Focus areas:** 🔄 Data engineering & pipelines · 🧠 Applied ML/NLP & LLMs · 📊 Analytics & BI · ⚖️ Responsible AI
 
 ---
 
