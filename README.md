@@ -14,29 +14,20 @@ I build data and AI systems that turn messy data into decisions: data pipelines,
 
 ### 📊 By the numbers
 
-| Metric | Context |
+| Metric | Project |
 |:--|:--|
-| **4.0 GPA** | MS Computer Science (HCI), Georgia Tech |
-| **77.7%** held-out accuracy | Logistic regression classifier on 1,111 operational records |
-| **24 of 36** commits | Led implementation of a full-stack AI web app |
-| **1,100+** records per run | Python pipeline that replaced a manual payroll report, adopted as a standing process |
-| **20%** fewer connectivity tickets | Diagnosing and replacing failing access points at Clemson |
-| **30+** infrastructure projects | Campus-wide Cisco network refresh |
-| **5,000+** documents | NLP relation extraction and knowledge graph research |
+| **96.4%** accuracy on **41,000+** reviews | Amazon review recommendation model (R: logistic regression, decision trees, random forest) |
+| **90-lesson** blinded evaluation design | LLM vs. Expert Instruction: 2 models × 3 conditions × 3 scenarios, 4 rubric dimensions |
 
 ---
 
 ### 🚀 Selected work
 
-**[HPC Job Submission Validator](https://github.com/Human-Augment-Analytics/admin-high-performance-computing/tree/main/HPC_Job_Submission)**: Python CLI built for a Georgia Tech HPC research group to catch SLURM job errors before they consume shared cluster time.
+**[LLM vs. Expert Instruction](https://github.com/GoldenJacket/LLM-vs-expert-instruction)**: Designed and built a blinded, rubric-based study comparing LLM-generated instruction with expert coaching across prompt strategies, with a [live study app](https://swing-cue-lab.zacharytristanwallace.workers.dev) running on Cloudflare Workers AI.
 
-**[Atlanta Traffic & Demographics Map](https://github.com/Sectonic/Ai-ATL-25)**: Built the data layer for an interactive map of Atlanta zones, cleaning demographic and road GeoJSON and computing traffic flow. Winning project at AI ATL 2025.
+**[HPC Job Submission Validator](https://github.com/Human-Augment-Analytics/admin-high-performance-computing/tree/main/HPC_Job_Submission)**: Python CLI that catches errors in SLURM job submissions before they consume shared cluster time on Georgia Tech's PACE cluster.
 
-**[AI-Powered Web App](https://github.com/GoldenJacket/Patient-Portal)**: Full-stack React and Supabase app with row-level-security auth, third-party API integration, and LLM features deliberately scoped for safe use.
-
-**[LLM vs. Expert Instruction](https://github.com/GoldenJacket/LLM-vs-expert-instruction)**: Rubric-based evaluation of LLM-generated instruction against expert coaching, with a [live study app](https://swing-cue-lab.zacharytristanwallace.workers.dev).
-
-**Relation Extraction & Knowledge Graphs**: Reproduced an NER, entity linking, and relation extraction pipeline and authored a research proposal for building knowledge graphs from scientific literature.
+**Amazon Review Recommendation Model**: Cleaned 41,000+ product reviews, handled class imbalance with oversampling, and compared logistic regression, decision tree, and random forest models in R to predict whether a reviewer recommends a product.
 
 ---
 
@@ -66,7 +57,7 @@ I build data and AI systems that turn messy data into decisions: data pipelines,
 ---
 
 ### 🎓 Background
-- **Georgia Tech**: MS Computer Science (HCI), 4.0 GPA · OMSCS Student Advisory Board
+- **Georgia Tech**: MS Computer Science (HCI) · OMSCS Student Advisory Board
 - **Mercer University**: MBA · MS Business Analytics
 - **Clemson University**: Network Specialist III (production infrastructure, 2022–present) · BS Computer Information Systems
 
