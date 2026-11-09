@@ -1,15 +1,14 @@
 <h2 align="center">Zachary Wallace</h2>
-<p align="center"><b>Healthcare Data & AI Engineering</b> · Atlanta, GA</p>
+<p align="center"><b>Data & AI Engineering</b> · Software · Analytics · Atlanta, GA</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/zachary-wallace2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:zacharytristanwallace@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img alt="AI ATL 2025 Hackathon Winner" src="https://img.shields.io/badge/AI_ATL_2025-Hackathon_Winner-FFD700?style=for-the-badge">
 </p>
 
-I build data and AI systems that make clinical data usable: FHIR/OMOP integration, biomedical NLP, and LLM applications designed with safety and governance in mind. I bring together three areas: four years running production infrastructure, graduate training in computer science, and business training (MBA and MS in Business Analytics). That lets me move between engineers, clinicians, and leadership.
+I build data and AI systems that turn messy data into decisions: data pipelines, machine learning models, NLP, and LLM applications designed with safety and governance in mind. My work spans research computing, operations, analytics, and full-stack applications. I bring together three areas: four years running production infrastructure, graduate training in computer science, and business training (MBA and MS in Business Analytics). That lets me move between engineers, domain experts, and leadership.
 
-**Focus areas:** 🏥 healthcare interoperability · 🔄 data pipelines & quality · 🧠 applied ML/NLP · ⚖️ responsible AI
+**Focus areas:** 🔄 data engineering & pipelines · 🧠 applied ML/NLP & LLMs · 📊 analytics & BI · ⚖️ responsible AI
 
 ---
 
@@ -18,26 +17,26 @@ I build data and AI systems that make clinical data usable: FHIR/OMOP integratio
 | Metric | Context |
 |:--|:--|
 | **4.0 GPA** | MS Computer Science (HCI), Georgia Tech |
-| **1,111** EHR encounters modeled | Hospital observation-unit placement · **77.7%** held-out accuracy |
-| **24 of 36** commits | Led implementation of a FHIR R4 patient portal |
+| **77.7%** held-out accuracy | Logistic regression classifier on 1,111 operational records |
+| **24 of 36** commits | Led implementation of a full-stack AI web app |
 | **1,100+** records per run | Python pipeline that replaced a manual payroll report, adopted as a standing process |
 | **20%** fewer connectivity tickets | Diagnosing and replacing failing access points at Clemson |
 | **30+** infrastructure projects | Campus-wide Cisco network refresh |
-| **5,000+** PubMed abstracts | BioASQ GutBrainIE relation extraction research |
+| **5,000+** documents | NLP relation extraction and knowledge graph research |
 
 ---
 
 ### 🚀 Selected work
 
-**[AI-Powered Patient Portal](https://github.com/GoldenJacket/Patient-Portal)**: SMART on FHIR R4 records, Supabase auth with row-level security, and LLM lab explanations deliberately scoped as education, not diagnosis.
-
 **[HPC Job Submission Validator](https://github.com/Human-Augment-Analytics/admin-high-performance-computing/tree/main/HPC_Job_Submission)**: Python CLI built for a Georgia Tech HPC research group to catch SLURM job errors before they consume shared cluster time.
 
-**Biomedical Relation Extraction (BioASQ GutBrainIE)**: Reproduced the NER, entity linking, and relation extraction baseline and authored the research proposal for a gut-brain knowledge graph for drug repurposing.
+**[Atlanta Traffic & Demographics Map](https://github.com/Sectonic/Ai-ATL-25)**: Built the data layer for an interactive map of Atlanta zones, cleaning demographic and road GeoJSON and computing traffic flow. Winning project at AI ATL 2025.
+
+**[AI-Powered Web App](https://github.com/GoldenJacket/Patient-Portal)**: Full-stack React and Supabase app with row-level-security auth, third-party API integration, and LLM features deliberately scoped for safe use.
 
 **[LLM vs. Expert Instruction](https://github.com/GoldenJacket/LLM-vs-expert-instruction)**: Rubric-based evaluation of LLM-generated instruction against expert coaching, with a [live study app](https://swing-cue-lab.zacharytristanwallace.workers.dev).
 
-**[AI ATL 2025](https://github.com/Sectonic/Ai-ATL-25)**, *hackathon winner*: Built the data layer for an interactive Atlanta traffic and demographics map.
+**Relation Extraction & Knowledge Graphs**: Reproduced an NER, entity linking, and relation extraction pipeline and authored a research proposal for building knowledge graphs from scientific literature.
 
 ---
 
@@ -48,9 +47,6 @@ I build data and AI systems that make clinical data usable: FHIR/OMOP integratio
 
 **Data, ML & AI**<br>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"> <img alt="Anthropic Claude" src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white">
-
-**Healthcare**<br>
-<img alt="HL7 FHIR R4" src="https://img.shields.io/badge/HL7_FHIR_R4-E8432E?style=flat-square"> <img alt="SMART on FHIR" src="https://img.shields.io/badge/SMART_on_FHIR-2E7D32?style=flat-square"> <img alt="OMOP CDM" src="https://img.shields.io/badge/OMOP_CDM-1565C0?style=flat-square">
 
 **Platforms & Tools**<br>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"> <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img alt="SLURM/HPC" src="https://img.shields.io/badge/SLURM%2FHPC-0B3D91?style=flat-square">
@@ -74,5 +70,4 @@ I build data and AI systems that make clinical data usable: FHIR/OMOP integratio
 - **Mercer University**: MBA · MS Business Analytics
 - **Clemson University**: Network Specialist III (production infrastructure, 2022–present) · BS Computer Information Systems
 
-<p align="center"><i>"Without data, you're just another person with an opinion." (W. Edwards Deming)</i></p>
-
+<p align="center"><i>"A journey of a thousand miles begins with a single step." (Lao Tzu)</i></p>
