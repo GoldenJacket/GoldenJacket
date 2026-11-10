@@ -1,4 +1,4 @@
-<h2 align="center">Zachary Wallace</h2>
+<h2 align="center">Zachary T Wallace</h2>
 <p align="center"><b>Data Engineer</b> · Healthcare & Enterprise Data · Atlanta, GA</p>
 
 <p align="center">
@@ -49,4 +49,3 @@ I build data pipelines that replace manual reporting with processes that are val
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
   <img alt="SLURM/HPC" src="https://img.shields.io/badge/SLURM%2FHPC-0B3D91?style=flat-square">
 </p>
-
