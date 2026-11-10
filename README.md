@@ -1,4 +1,4 @@
-<h2 align="center">Zachary T Wallace</h2>
+<h2 align="center">Zachary Wallace</h2>
 <p align="center"><b>Data Engineer</b> · Healthcare & Enterprise Data · Atlanta, GA</p>
 
 <p align="center">
@@ -17,7 +17,7 @@ I build data pipelines that replace manual reporting with processes that are val
 **Kronos exception pipeline** *(production, Clemson University)*: Replaced a manual pay-period report with a Python pipeline that turns a 1,100+ record timekeeping export into supervisor-level exception reports, with SQL checks for holiday edge cases. Adopted as a standing process.<br>
 <sub>Python · pandas · SQL</sub>
 
-**[Patient-Portal](https://github.com/GoldenJacket/Patient-Portal)**: Ingests SMART on FHIR R4 `Patient`, `Observation`, and `Condition` resources into PostgreSQL behind authenticated access. LLM lab-result explanations are scoped as patient education, not diagnosis.<br>
+**[Patient-Portal](https://github.com/GoldenJacket/Patient-Portal)**: Pulls SMART on FHIR R4 `Patient`, `Observation`, and `Condition` resources into a React app backed by Supabase/PostgreSQL with row-level security. LLM lab-result explanations are scoped as patient education, not diagnosis.<br>
 <sub>FHIR R4 · PostgreSQL/Supabase · React · Claude API · Cloudflare</sub>
 
 **[HPC Job Submission Validator](https://github.com/Human-Augment-Analytics/admin-high-performance-computing/tree/main/HPC_Job_Submission)**: CLI that catches errors in SLURM job scripts before they burn shared cluster time on Georgia Tech's PACE cluster.<br>
