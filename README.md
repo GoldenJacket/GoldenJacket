@@ -25,7 +25,7 @@ I build data pipelines that replace manual reporting with processes that are val
 **[HPC Job Submission Validator](https://github.com/Human-Augment-Analytics/admin-high-performance-computing/tree/main/HPC_Job_Submission)**: CLI that catches errors in SLURM job scripts before they burn shared cluster time on Georgia Tech's PACE cluster.<br>
 <sub>Python · SLURM</sub>
 
-**[LLM vs. Expert Instruction](https://swing-cue-lab.zacharytristanwallace.workers.dev)**: Blind, rubric-scored evaluation of 90 generated lessons (2 models × 3 conditions × 3 scenarios), with a live study app.<br>
+**[LLM vs. Expert Instruction](https://swing-cue-lab.zacharytristanwallace.workers.dev)**: Live study app that generated 90 lessons (2 models × 3 conditions × 3 scenarios), with a blind, rubric-scored evaluation of a balanced 36-lesson subset.<br>
 <sub>Cloudflare Workers AI · JavaScript</sub>
 
 ---
